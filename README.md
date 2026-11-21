@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24410806.svg)](https://doi.org/10.5281/zenodo.24410806)
 
+This result is now maintained in [theta-host-split-inert-race](https://github.com/leecrossley/theta-host-split-inert-race/tree/main/results/theta-race-waiting-bound). This repository is archived and keeps its releases and DOI.
+
 After **every** starting height $H\ge1$, the split–inert lead on the 547/727 field both gains and loses more than $1.9735\log 2$ over a doubling. Both moves finish before
 
 $$
